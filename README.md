@@ -1,5 +1,7 @@
 # Warp Directory
 
+[![Join the chat at https://gitter.im/kigster/warp_dir](https://badges.gitter.im/kigster/warp_dir.svg)](https://gitter.im/kigster/warp_dir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/kigster/warp_dir.svg?branch=master)](https://travis-ci.org/kigster/warp_dir)
 [![Code Climate](https://codeclimate.com/github/kigster/warp_dir/badges/gpa.svg)](https://codeclimate.com/github/kigster/warp_dir)
 
